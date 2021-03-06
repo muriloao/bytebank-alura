@@ -1,4 +1,4 @@
-package br.com.alura.bytebank
+package br.com.muriloao.bytebank
 
 import android.os.Bundle
 
